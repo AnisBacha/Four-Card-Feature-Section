@@ -59,12 +59,10 @@ body{
     align-items: center;
 }
 .main__h1{
-    /* padding-inline-start: var(--PADDING-M) ; */
     padding-block: var(--PADDING-M);
     font-size: var(--FONTSIZE-L);
     color: var(--VERYDARK-BLUE);
 
-    /* text-align: center; */
  
 }
 .main__span{
@@ -109,10 +107,10 @@ body{
     padding-block-end: 3rem;
     font-weight: 200;
 }
-/* .main__icon{
+.main__icon{
     position: relative;
-    left: 50vw;
-} */
+    left: 80%;
+}
 
 .main__supervisor{
     border-top: 4px solid var(--CYAN);
